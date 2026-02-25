@@ -1,5 +1,4 @@
 // console.log("12");
-
 // console.log("my name is akbor");
 
 
@@ -41,16 +40,9 @@
  * var MyName="xyz"-------------------pascal case
  * 
  * 
- * //
- 
-
-
-
-//  var isnum=ture;
-
-
-
-
+ *
+*/
+// var isnum=ture;
 
 
 var isnum=ture;
