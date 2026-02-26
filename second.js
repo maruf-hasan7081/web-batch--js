@@ -1,5 +1,5 @@
-// var name ="ture"
-// console.log(typeof name);
+var isname = true;
+console.log(typeof isname);
 
 
 // var isnum=true;
@@ -7,8 +7,8 @@
 
 
 
-// var num =10;
-// console.log(typeof num);
+var num ="10";
+console.log(typeof num);
 
 
 
@@ -16,9 +16,13 @@
 // /// type casting
 
 
-// var num2= 10.5;
-// // console.log(typeof num2);
-// console.log(parseInt(num2));
+var num2= 10.5;
+// console.log(typeof num2);
+console.log(parseInt(num2));
+
+
+
+
 
 
 // var num3 ='20'
@@ -28,16 +32,15 @@
 
 
 
-var num4 = 20;
-console.log(parseFloat(num4));
 
 
 
 
 
 
-var num5 ="40";
-var num6 =20;
+var num5 ="20";
+
+var num6 =26;
 
 var result=num5+num6;
 console.log(result);

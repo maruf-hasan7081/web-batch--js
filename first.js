@@ -1,5 +1,5 @@
 // console.log("12");
-// console.log("my name is akbor");
+// // console.log("my name is akbor");
 
 
 // var num = 5;
@@ -7,9 +7,9 @@
 // console.log(num);
 
 
-// var num =20;
-// num=50;
-// console.log(num);
+var num =20;
+num=50;
+console.log(num);
 
 
 // var name = "chadni";
@@ -42,7 +42,9 @@
  * 
  *
 */
-// var isnum=ture;
-
+//
 
 var isnum=ture;
+
+
+// var isnum=ture;
