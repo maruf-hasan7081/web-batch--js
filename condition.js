@@ -24,7 +24,7 @@
 // let hight=170; 
 
 
-// if(job=="bcs cadre" || hight==171 ){
+// if(job=="bcs cadre" && hight==171 ){
 //     console.log("ami biyete raji")
 // }
 // else
@@ -34,19 +34,37 @@
 
 
 
-if(condition){
-    if(condition){
-        //code execute korbo
+// if(condition){
+//     if(condition){
+//         //code execute korbo
+//     }
+//     //code execute korbo
+// }
+// else if(condition){
+//     //code execute
+// }
+// else{
+//     //code execute
+// }
+
+
+const age =20;
+
+if(age>=21){
+    if(age!=isNaN(age)){
+        console.log("age just a number")
+
     }
-    //code execute korbo
-}
-else if(condition){
-    //code execute
+    else{
+        console.log("age just not a number")
+    }
+
 }
 else{
-    //code execute
-}
+    console.log("tumi vote dite parba na ")
 
+
+}
 
 
 

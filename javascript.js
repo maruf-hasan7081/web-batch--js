@@ -10,9 +10,9 @@
 
 
 
-// const name2 ="xyz";
+const name2 ="xyz";
 // name2="shanjida akter"
-// console.log(name2);
+console.log(name2);
 
 
 
@@ -26,7 +26,7 @@ let second=0.2;
 
 let total=first+second;
 
-console.log(parseFloat(total.toFixed(3)).toFixed(3));
+console.log(parseFloat(total.toFixed(5)));
 
 // toFixed() 
 
@@ -35,8 +35,8 @@ console.log(parseFloat(total.toFixed(3)).toFixed(3));
 let num1="10";
 let num2=30;
 
-let total1=num1/num2;
-console.log(total1);
+let total1=num1*num2;
+console.log(total1.toFixed(2));
 
 
 

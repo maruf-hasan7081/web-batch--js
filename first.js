@@ -44,7 +44,17 @@ console.log(num);
 */
 //
 
-var isnum=ture;
+// var isnum=ture;
 
 
 // var isnum=ture;
+
+
+
+let my_name_is ="afia";
+let myNameIs ="afia";
+let MyNameIs ="afia";
+
+
+
+console.log("afia");

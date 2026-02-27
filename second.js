@@ -6,9 +6,12 @@ console.log(typeof isname);
 // console.log(typeof isnum);
 
 
+var num =10;
+console.log(typeof num);
+
 
 var num ="10";
-console.log(typeof num);
+console.log(parseInt(num) );
 
 
 
@@ -36,9 +39,8 @@ console.log(parseInt(num2));
 
 
 
-
-
-var num5 ="20";
+//2026
+let num5 ="20";
 
 var num6 =26;
 
